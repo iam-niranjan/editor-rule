@@ -27,7 +27,7 @@ The technical stack for development includes:
 ## 🚀 Getting Started
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/iam-niranjan/editor-rule.git
    ```
 2. Review the [`Coding-Guidelines.md`](./Coding-Guidelines.md) file.
 3. Apply the recommended configurations in your editor.
